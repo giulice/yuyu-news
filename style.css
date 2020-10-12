@@ -68,6 +68,12 @@ body{
     padding-bottom: 8px;
 }
 
+.banner3 a img{
+    margin-top: 0px;
+    width: 122px;
+    height: 30px;
+}
+
 .navigation{
     background-color: #a91717;
     border-color: #a91717;
@@ -101,7 +107,14 @@ body{
 article{
     margin-left: 315px;
     margin-right: 600px;
-    margin-top: 50px;
+    margin-top: 8px;
+}
+
+
+h1{
+    font-size: 32px;
+    color: #1e1e1e;
+    font-weight: bold;
 }
 
 .title-container{
@@ -121,13 +134,14 @@ small{
 
 .a-us{
     text-decoration: none;
-    color: black;
+    color:#222;
     padding: 8px;
     font-weight: bold;
     border-bottom: 1px solid #dbdbdb;
     border-top: 1px solid #dbdbdb;
     border-left: 1px solid #dbdbdb;
     border-right:  1px solid #dbdbdb;
+    font-size: 13px;
 }
 
 .a-us:hover{
@@ -139,6 +153,7 @@ small{
     padding: 16px;
     color: #ececec;
     background-color: black;
+    font-size: 13px;
 }
 
 .introduction{
@@ -149,6 +164,7 @@ small{
 
 p{
     margin-top: 23px;
+    color: #404040;
 }
 
 .ul-story{
@@ -203,4 +219,58 @@ img{
     letter-spacing: normal;
     text-decoration: none;
 }
+
+.more-story{
+    margin-top: 40px;
+    border-top: 8px solid #dcdcdc;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.more-title{
+    border-bottom: 1px solid #dcdcdc;
+    margin-bottom: 0px;
+}
+
+.more-h2{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 12px;
+    color: #404040;;
+}
+
+.ul-more{
+    list-style: none;
+    padding-left: 0px;
+}
+
+.li-more{
+    list-style: none;
+    display: list-item;
+    padding-top: 17px;
+}
+
+.a-more{
+    text-decoration: none;
+}
+
+.a-div-title{
+    color: #404040;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.a-div-title:hover{
+    color: rgb(17, 103, 168);
+}
+
+.a-div-date{
+    padding-bottom: 4px;
+    line-height: 1.5;
+    font-size: 14px;
+    font-weight: 200;
+    color: #222;
+}
+
 
