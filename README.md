@@ -16,3 +16,4 @@ https://www.bbc.com/news/election-us-2020-54496618
 
 ## License & copyright
 
+© Giuliano Cetto
